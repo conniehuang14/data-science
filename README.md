@@ -3,6 +3,8 @@
 ## View full project [here](https://github.com/conniehuang14/data-science/blob/main/INFO%202950-%20Data%20Science%20Final%20Project.ipynb).
 
 # Overview
+Project by Connie Huang and Sophie Ruan.
+
 This project analyzes factors that affect the graduation rate of first-time, full-time students attending 4-year universities in the United States. We examined several factors such as students’ academics, the institution’s admissions, aid, cost of attendance, funding source, as well as the student body’s racial diversity and socio-economic status. We analyzed the relationships using linear regression to determine the extent to which there is a linear relationship between each factor and the graduation rate. In order to evaluate the significance of the results of each linear regression, we decided to create permutations of the variables used for the linear regression to assess the significance of the results.
 
 # Data
@@ -22,6 +24,4 @@ The dataset used was collected for the College Scorecard, an online tool created
 - There is a strong negative relationship between Pell Grant recipients and completion rate
 - There are strong positive relationships not likely of random chance for White, Black, and Hispanic student completion rate with average attendance cost across all higher education institutions
 - There is a strong positive relationship not likely of random chance for students across all income brackets at public institutions with completion rate, and for students across lower to upper-middle income brackets for private institutions with completion rate
-
-
 

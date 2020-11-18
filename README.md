@@ -1,6 +1,6 @@
 # Analyzing Factors Affecting Graduation Rate at Higher Education Institutions in the U.S.
 
-## View full project [here](https://github.com/conniehuang14/data-science/blob/main/INFO%202950-%20Data%20Science%20Final%20Project.ipynb).
+## View full project [here](./INFO%202950-%20Data%20Science%20Final%20Project.ipynb).
 
 ### Overview
 Project by Connie Huang and Sophie Ruan.
